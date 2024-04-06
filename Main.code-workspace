@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/ANIMELA/Documents/New folder/main/Main"
+		},
+		{
+			"path": "C:/Users/ANIMELA/Desktop/Java"
+		},
+		{
+			"path": "F:/python"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
